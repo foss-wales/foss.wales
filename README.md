@@ -37,15 +37,11 @@ It is also your repository.
    ```
    cd foss.wales
    ```
-4. Modify the first line of `_config.yml` to serve from localhost:
-   ```
-   url: http://localhost:4000
-   ```
-5. Build it with `jekyll`:
+4. Build it with `jekyll`:
    ```
    jekyll serve --trace
    ```
-6. Ready! Now, you can visit your buid at [localhost:4000](https://localhost:4000)
+5. Ready! Now, you can visit your buid at [localhost:4000](https://localhost:4000)
 
 [docs]: http://jekyllrb.com/
 ### Agency Jekyll theme
