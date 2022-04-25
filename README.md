@@ -1,9 +1,16 @@
-Agency Jekyll theme
-====================
+# foss.wales
+The website of FOSS WALES: https://foss.wales
+
+## Development
+
+We use Jekyll to develop this site.
+Please have a look at the Jekyll Documentation on how to build the site: http://jekyllrb.com/
+
+## Agency Jekyll theme
 
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-# How to use
+How to use:
 
 ###Portfolio 
 
@@ -22,9 +29,3 @@ Team members and info are in '_config.yml'
 Images are in '/img/team/'
 
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
