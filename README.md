@@ -1,15 +1,19 @@
 # foss.wales
 The website of FOSS WALES: https://foss.wales
 
-## Development
+## Contributing
 
-We use Jekyll to develop this site.
+Some issues are already here on this repository.
+Additionally, we track the ideas we have [as a GitHub Project](https://github.com/orgs/foss-wales/projects/3).
+If you feel like making a change, you can jsut go ahead but we recommend
+commenting in an issue or creating one so that we can coordinate our efforts.
 
 ## Development
 
 You are welcome to edit this site and add more to it!
 This section should get you started.
 
+We use Jekyll to develop this site.
 Please have a look at the [Jekyll Documentation][docs] on how to
 build the site.
 Please keep in mind: if something here does not work for you,
