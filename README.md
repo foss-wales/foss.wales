@@ -47,20 +47,24 @@ It is also your repository.
 ### Agency Jekyll theme
 
 Agency theme based on [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/).
+We have a [fork](https://github.com/foss-wales).
+We can use improvements from other branches and forks.
+Then, we can integrate/merge them into the `main` branch
+of this repository.
 
 How to use:
 
-###Portfolio 
+### Portfolio 
 
 Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+### About
 
 Images are in '/img/about/'
 
-###Team
+### Team
 
 Team members and info are in '_config.yml'
 
